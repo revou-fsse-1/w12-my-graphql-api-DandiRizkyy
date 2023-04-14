@@ -1,11 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/I45palx4)
-# Dandi Rizky Week 12 Assignment (GraphQL Backend)<img src="https://raw.githubusercontent.com/DandiRizkyy/slackmoji/master/emoji/blob/blob-wave-gif.gif" width="50px" height="50px" alt="hello">
+
+# Dandi Rizky Week 12 Assignment (GraphQL Backend)
 
 ## Description ✍🏻
 
 ---
 
-> under construction sir. 🚧
+This is simple CRUD GraphQL api using GraphQL Yoga framework.
 
 ## Documentation 📋
 
@@ -19,6 +20,7 @@ Postman Documentation Links : [Click Here 🐱]()
 
 - Javascript
 - GraphQL
+- GraphQL Yoga
 
 ## Toolings 🔨
 
@@ -26,7 +28,7 @@ Postman Documentation Links : [Click Here 🐱]()
 
 - Postman
 - Insomnia
-- RailwayApp
+- Render.com
 
 ## Links 🔗
 
