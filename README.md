@@ -12,7 +12,13 @@ This is simple CRUD GraphQL api using GraphQL Yoga framework.
 
 ---
 
-Postman Documentation Links : [Click Here 🐱]()
+Postman Documentation Links : [Click Here 🐱](https://documenter.getpostman.com/view/24409630/2s93Xwzj4M)
+
+### API Endpoints
+
+```
+https://e-commerce-dandi-graphql.onrender.com/graphql
+```
 
 ## Technologies 🚀
 
@@ -34,4 +40,4 @@ Postman Documentation Links : [Click Here 🐱]()
 
 ---
 
-Week 12 Assignment Links : [Click Me 🙀]()
+Week 12 Assignment Links : [Click Me 🙀](https://e-commerce-dandi-graphql.onrender.com)
